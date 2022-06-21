@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": false,
+      "addon": true,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,13 +35,45 @@
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+    "name": "Butchery Addon (1.16 UPDATE!)",
+    "role": "Isn't it pretty easy to get meat in minecraft? Just punch a cow a few times, and you get meat that is good even if you don't cook it. In real life that takes weeks to butcher, chill, and cook the meat. This addon makes it a little bit more complicated…",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/5/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/5/1.16_update.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/5/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/5/1.png"
+  },
+  {
+    "name": "Cow Plus V2 Addon",
+    "role": "Add-on adds 11 new cows to the game and each one has its own functions. Some of them are created by other cows mating, and some naturally generate in specific biomes. Each cow is classified as a different rarity 1 (common), 2 (rare), 3 (very rare), 4 (almost legend), 5 (legend).",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/12/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/12/CowplusV2.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/12/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/12/1.png"
+  },
+  {
+    "name": "MH Advance NPC (v4.0) Man-Hunt Update's",
+    "role": "Playing minecraft for a longer time and you feel so alone, now! you have an advance player humanoid that protect you a better animated friend created for you, detailed animations and more new abilities & features discover on gameplay!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/14/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/14/MH_NPC_V0.1_New_NPC_Added.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/14/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/14/1.png"
+  },
+  {
+    "name": "[1.0.0] bum_Fauna!",
+    "role": "Bring your worlds to life with several new and unique animals with immersive behaviors! Why add new monsters when realistic animals can be just as dangerous as mythical beasts of legend!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/15/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/15/bumFaunaV1.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/15/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/15/1.png"
+  },
+  {
+    "name": "Seas and Oceans (by Asian Roofs Team)",
+    "role": "This addon adds more than 50 animals that live in the Seas or Oceans. They all have features based on real life and they all have a special system of reproduction. This pack is made to go along our initial pack called Asian Animals. You can also add our other packs for more fun :)",
+    "image": "https://kossandroid.com/Data Android/Minecraft/anime/20/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/anime/20/ARs_oFINAL.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/anime/20/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/anime/20/1.png"
+  }
   ],
   "Map": [
     {
